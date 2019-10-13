@@ -1,0 +1,44 @@
+{
+  "Cultures":
+  [
+    {
+      "BaseFrom": "en-US",
+      "BaseFromRegion": "US",
+      "CultureName": "en-DE",
+      "CultureLangTag": "en-DE",
+      "CultureEnglishName": "English (Germany)",
+      "NativeName": "Englisch (Deutschland)",
+      "RegionEnglishName": "Germany",
+      "RegionNativeName": "Deutschland",
+      "LanguageCode": "en",
+      "RegionCode": "DE",
+      "SitecoreIconPath": "flags/16x16/flag_Germany.PNG"
+    },
+    {
+      "BaseFrom": "en-US",
+      "BaseFromRegion": "US",
+      "CultureName": "en-AT",
+      "CultureLangTag": "en-AT",
+      "CultureEnglishName": "English (Austria)",
+      "NativeName": "Englisch (Österreich)",
+      "RegionEnglishName": "Austria",
+      "RegionNativeName": "Österreich",
+      "LanguageCode": "en",
+      "RegionCode": "AT",
+      "SitecoreIconPath": "flags/16x16/flag_Austria.PNG"
+    },
+    {
+      "BaseFrom": "en-US",
+      "BaseFromRegion": "US",
+      "CultureName": "en-CH",
+      "CultureLangTag": "en-CH",
+      "CultureEnglishName": "English (Switzerland)",
+      "NativeName": "Englisch (Switzerland)",
+      "RegionEnglishName": "Switzerland",
+      "RegionNativeName": "Schweiz",
+      "LanguageCode": "en",
+      "RegionCode": "CH",
+      "SitecoreIconPath": "flags/16x16/flag_Switzerland.PNG"
+    }
+  ]
+}
